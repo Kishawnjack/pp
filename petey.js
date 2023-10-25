@@ -1,5 +1,5 @@
 function peteyHello(name) {
-    return `Hi my fucking name is ${name}`
+    return `Hi my new name is ${name}`
 };
 
 console.log(peteyHello("Petey"));
